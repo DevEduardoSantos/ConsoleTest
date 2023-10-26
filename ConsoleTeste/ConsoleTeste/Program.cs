@@ -8,7 +8,7 @@ namespace ConsoleTeste
         static void Main(string[] args)
         {
             string path = @"C:\Windows\Temp\MeusProjetos\dados_iniciais.txt";
-            int id = 1; // inicializa o ID
+            int id = 1; 
 
             StreamWriter sw = null;
             try
