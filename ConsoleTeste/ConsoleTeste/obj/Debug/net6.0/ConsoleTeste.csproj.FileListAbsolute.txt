@@ -1,0 +1,14 @@
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.exe
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.deps.json
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.runtimeconfig.json
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.dll
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\bin\Debug\net6.0\ConsoleTeste.pdb
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.AssemblyInfoInputs.cache
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.AssemblyInfo.cs
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.dll
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\refint\ConsoleTeste.dll
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.pdb
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ConsoleTeste.genruntimeconfig.cache
+C:\Windows\Temp\MeusProjetos\ConsoleTeste\ConsoleTeste\obj\Debug\net6.0\ref\ConsoleTeste.dll
